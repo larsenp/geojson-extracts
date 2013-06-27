@@ -1,6 +1,6 @@
-osm-extracts
+geo-extracts
 ============
-GeoJSON extracts of OpenStreetMap data.
+GeoJSON and shape extracts, mostly from OpenStreetMap.
 
 Sources
 ============
