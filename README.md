@@ -4,7 +4,8 @@ GeoJSON and shape extracts, with a focus on [OpenStreetMap](http://www.openstree
 
 Downloads
 --------
-* Archive of OSM power lines within the United States (including Hawaii and Alaska). [https://dl.dropboxusercontent.com/u/361537/usa-lines.geojson.zip]
+* [power-planet-130710.osm.bz2](https://b96cdc3594947c195d9f-69a77e6a2c54228cacc9fc5f19155435.ssl.cf2.rackcdn.com/power-planet-130710.osm.bz2) – All ways, nodes, and relations tagged with power.
+* [download.geofabrik.de](http://download.geofabrik.de/) – Area-based OSM, PBF, and shape extracts from Geofabrik.
 
 Sources
 --------
