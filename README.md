@@ -4,7 +4,7 @@ GeoJSON and shape extracts, with a focus on [OpenStreetMap](http://www.openstree
 
 Downloads
 --------
-* [power-planet-130814.osm.bz2](http://geo-dl.bitomics.com/power-planet-130814.osm.bz2) (107.7 MB) – All ways, nodes, and relations tagged with power.
+* [power-planet-131002.osm.bz2](https://dl.dropboxusercontent.com/u/361537/power-planet-131002.osm.bz2) (117.9 MB) – All ways, nodes, and relations tagged with power.
 * [download.geofabrik.de](http://download.geofabrik.de/) – Area-based OSM, PBF, and shape extracts from Geofabrik.
 
 Sources
